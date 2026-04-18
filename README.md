@@ -1,1 +1,1 @@
-# project-zomboid-build-42-cheat
+Project Zomboild Build 42 Cheat Mod
